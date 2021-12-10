@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EsercizioPaesiEuroperi</string>
+    <string name="s1">Premi per la seconda activity</string>
+    //TEXTVIEW SCRITTA
+    <string name="s2">PREMI</string>//COSA C'E' SCRITTO SUL BOTTONE
+    <string name="s3">Benvenuto!</string>
+</resources>
